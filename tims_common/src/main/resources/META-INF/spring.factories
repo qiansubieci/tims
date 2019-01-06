@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.sean.tims.common.config.Swagger2Config
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.sean.tims.common.config.Swagger2Config,com.sean.tims.common.config.DruidConfig

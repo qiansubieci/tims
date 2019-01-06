@@ -8,8 +8,8 @@
         <groupId>com.sean</groupId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
-    <artifactId>tims_base</artifactId>
-    <packaging>jar</packaging>
+
+    <artifactId>tims_user</artifactId>
 
     <dependencies>
         <dependency>
@@ -18,14 +18,5 @@
             <version>${project.version}</version>
         </dependency>
     </dependencies>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
